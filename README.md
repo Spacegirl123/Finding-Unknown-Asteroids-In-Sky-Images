@@ -1,4 +1,4 @@
-# Strengthening Planetary Defense: Detecting Unknown Asteroids using Open Data, Math, and Python
+# Planetary Defense: Detecting Unknown Asteroids using Open Data, Math, and Python
 
 Asteroid collision risks are real and unpredictable. 66 million years ago the Chicxulub asteroid impact wiped away the dinosaurs. My project strengthens planetary defense by using robotic telescopes, open data, math, and python to find unknown asteroids.
 
